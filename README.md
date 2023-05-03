@@ -1,4 +1,4 @@
-# Kaggle
+# Competition History
 
 | Competiton | Description |
 | --- | --- |
